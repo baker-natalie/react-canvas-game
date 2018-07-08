@@ -1,0 +1,1 @@
+//subclass to Actor, represents randomized NPC enemy characters

@@ -1,0 +1,1 @@
+//super class for all the game's characters
